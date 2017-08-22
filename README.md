@@ -2,5 +2,5 @@
 
 Skeleton codes were provided
 
-The assinment was creating AI that should beat the simple game AI by using minimax algorithm. 
+The assinment was creating AI that should beat simple game AI by using minimax algorithm. 
 
