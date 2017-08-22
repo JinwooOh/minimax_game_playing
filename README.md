@@ -1,6 +1,7 @@
 # minimax_game_playing
 
-## This was one of AI class projects
+
+**This was one of AI class projects**
 
 Skeleton codes were provided.
 
