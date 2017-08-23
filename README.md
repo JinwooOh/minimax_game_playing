@@ -10,5 +10,8 @@ The assinment was creating AI that should beat simple game AI by using minimax a
 
 I wrote joh64Player class, which is AI that should beat testPlayer
 
-Run configuration exmaple: 
+**Run configuration exmaple:**
 
+<img src="https://user-images.githubusercontent.com/28660183/29638284-634662de-881c-11e7-95cd-51fccc18f59f.png">
+
+or opposite order 
